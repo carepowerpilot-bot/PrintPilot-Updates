@@ -1,5 +1,5 @@
- {
-  "latest_version": "1.3",
-  "download_url": "https://github.com/Ycarepowerpilot-bot/PrintPilot-Updates/releases/latest/download/Update.zip",
-  "release_notes": "Added new PDF import security and auto-updater!"
+{
+  "latest_version": "1.4",
+  "download_url": "https://github.com/carepowerpilot-bot/PrintPilot-Updates/releases/download/V1.4/PrintPilot_v1.4_Setup.exe",
+  "release_notes": "🚀 What's New in v1.4:\n\n✅ Dual Mode Printing: Now print Passbook Front Page and ID Cards in two different professional modes.\n✅ Smart Statement Print: Automatically prints the statement starting exactly from the last printed line.\n✅ New Interactive Widget: Added a new widget on the dashboard for better accessibility and quick controls.\n✅ Auto-Renewal System: Instantly renew your subscription via secure QR code popup directly from the app.\n✅ Smart PDF Export: Customer reports now accurately save directly to your custom assigned folders.\n✅ Clean Print Preview: Removed all hardcoded dummy data for a 100% professional live preview.\n\nThank you for choosing Print Pilot by Digital Mitra!"
 }
