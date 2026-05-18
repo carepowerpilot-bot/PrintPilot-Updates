@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4",
-  "download_url": "https://github.com/carepowerpilot-bot/PrintPilot-Updates/releases/download/V1.4/PrintPilot_v1.4_Setup.exe",
-  "release_notes": "🚀 What's New in v1.4:\n\n✅ Dual Mode Printing: Now print Passbook Front Page and ID Cards in two different professional modes.\n✅ Smart Statement Print: Automatically prints the statement starting exactly from the last printed line.\n✅ New Interactive Widget: Added a new widget on the dashboard for better accessibility and quick controls.\n✅ Auto-Renewal System: Instantly renew your subscription via secure QR code popup directly from the app.\n✅ Smart PDF Export: Customer reports now accurately save directly to your custom assigned folders.\n✅ Clean Print Preview: Removed all hardcoded dummy data for a 100% professional live preview.\n\nThank you for choosing Print Pilot by Digital Mitra!"
+  "latest_version": "1.7",
+  "release_notes": "Print Pilot v1.7 Update:\n- Smart Fetch from Portal (1-second speed).\n- Auto-install update system integrated.\n- Fixed SHREE name issue in ID Cards.\n- Improved stability.",
+  "download_url": "https://github.com/carepowerpilot-bot/PrintPilot-Updates/raw/main/PrintPilot_v1.7_Setup.exe"
 }
