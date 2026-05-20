@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.7.0.0",
-  "release_notes": "Print Pilot v1.7.0.0 Update:\n- Smart Fetch from Portal (1-second speed).\n- Auto-install update system integrated.\n- Multiple ID Cards Options.\n- KYC documets Generate.",
+  "latest_version": "1.6",
+  "release_notes": "Print Pilot v1.6 Update:\n- Smart Fetch from Portal (1-second speed).\n- Auto-install update system integrated.\n- Multiple ID Cards Options.\n- KYC documets Generate.",
   "download_url": "https://github.com/carepowerpilot-bot/PrintPilot_SBI_v1.7_Setup/releases/download/PrintPilot_SBI_v1.7_Setup/PrintPilot_SBI_v1.7_Setup.exe"
 }
